@@ -1,6 +1,6 @@
 import createStore from './createStore';
 
-let initState = {
+const initState = {
   counter: {
     count: 0
   },
