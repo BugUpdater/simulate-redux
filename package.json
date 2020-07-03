@@ -7,7 +7,8 @@
     "start": "yarn demo1",
     "demo1": "babel-node src/1.simple-store/demo.js",
     "demo2": "babel-node src/2.limit-change-store/demo.js",
-    "demo3": "babel-node src/3.multiple-reducers/demo.js"
+    "demo3": "babel-node src/3.multiple-reducers/demo.js",
+    "demo4": "babel-node src/4.init-state-by-reducer/demo.js"
   },
   "repository": {
     "type": "git",
