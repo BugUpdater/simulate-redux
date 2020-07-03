@@ -8,7 +8,10 @@
     "demo1": "babel-node src/1.simple-store/demo.js",
     "demo2": "babel-node src/2.limit-change-store/demo.js",
     "demo3": "babel-node src/3.multiple-reducers/demo.js",
-    "demo4": "babel-node src/4.init-state-by-reducer/demo.js"
+    "demo4": "babel-node src/4.init-state-by-reducer/demo.js",
+    "demo5": "babel-node src/5.middleware/demo.js",
+    "demo6-1": "babel-node src/6.improved-middleware/demo1.js",
+    "demo6-2": "babel-node src/6.improved-middleware/demo2.js"
   },
   "repository": {
     "type": "git",
