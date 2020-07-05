@@ -11,7 +11,8 @@
     "demo4": "babel-node src/4.init-state-by-reducer/demo.js",
     "demo5": "babel-node src/5.middleware/demo.js",
     "demo6-1": "babel-node src/6.improved-middleware/demo1.js",
-    "demo6-2": "babel-node src/6.improved-middleware/demo2.js"
+    "demo6-2": "babel-node src/6.improved-middleware/demo2.js",
+    "demo7": "babel-node src/7.full-redux/demo.js"
   },
   "repository": {
     "type": "git",
