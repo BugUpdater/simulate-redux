@@ -1,7 +1,7 @@
 # simulate-redux
 Simulate Redux from simple to complex.
 
-从零编写一个功能完整的Redux。
+> 从零编写一个功能完整的Redux，包括combineReducers、applyMiddleware和bindActionCreators的实现等。
 
 ## Demo1 simple-store
 Create a simple store that can: get state/subscribe/change state.
