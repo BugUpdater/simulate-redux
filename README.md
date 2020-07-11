@@ -1,4 +1,4 @@
-# simulate-redux
+# simulate-redux (2020.07)
 Simulate Redux from simple to complex.
 
 > 从零编写一个功能完整的Redux，包括combineReducers、applyMiddleware和bindActionCreators的实现等。
